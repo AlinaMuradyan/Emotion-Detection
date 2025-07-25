@@ -55,13 +55,6 @@ python face.py
 ```
 
 > Make sure your `model.pkl` and any required files are in the correct location.
-
-### Or run the notebook
-
-```bash
-jupyter notebook Untitled.ipynb
-```
-
 ---
 
 ## 🔒 .gitignore (Recommended)
