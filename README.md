@@ -1,6 +1,6 @@
 # 🧠 Emotion Detection
 
-This project detects human emotions from facial images using Python and machine learning. It includes a trained model (`model.pkl`), an inference script (`face.py`), and a Jupyter notebook for experimentation.
+This project detects human emotions from facial images using Python, machine learning and deep learning. It includes a binary file of trained model (`model.pkl`), an inference script (`face.py`), and a Jupyter notebook where the trained model is.
 
 ---
 
